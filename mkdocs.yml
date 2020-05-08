@@ -1,5 +1,5 @@
 site_name: EG Rezepte
 nav:
     - Home: index.md
-    - About: about.md
+    - Tom Kha Gai (Vegan): tom_kha_gai.md
 theme: readthedocs
