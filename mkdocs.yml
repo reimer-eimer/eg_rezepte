@@ -1,0 +1,5 @@
+site_name: EG Rezepte
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
