@@ -1,4 +1,4 @@
 site_name: EG Rezepte
 nav:
     - Tom Kha Gai (Vegan): tom_kha_gai.md
-theme: material
+#theme: material
