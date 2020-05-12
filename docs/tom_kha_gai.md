@@ -15,7 +15,7 @@
 * 1 Prise Palmzucker (oder brauner Zucker)
 * 2 Limetten
 * 2 Frühlingszwiebeln
-* Thai-Basilikum
+* Thai-Basilikum 
 * frischer Koriander
 * Salz
 * 2 Tassen Reis
