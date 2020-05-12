@@ -32,3 +32,6 @@
 5. Knoblauch, Paprika, Karotte und Champignons dazu geben und ca. 5 Minuten köcheln lassen.
 6. Rest der Brühe, Kokosmilch, Zucker, Salz und Limettensaft hinzugeben.
 7. Anrichten mit Reis und mir ordentlich Kräutern bestreuen (Koriander, Frühlingszwiebel und Thai-Basilikum)
+
+## Koch
+Henning
