@@ -2,4 +2,5 @@ site_name: EG Rezepte
 nav:
     - Home: index.md
     - Tom Kha Gai (Vegan): tom_kha_gai.md
+    - Gemüse Spieße: test.md
 theme: material
